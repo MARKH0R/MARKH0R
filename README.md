@@ -61,5 +61,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="https://twitter.com/ArmghanKamboh" target="blank"><img src="https://img.shields.io/twitter/follow/ArmghanKamboh? logo=twitter&style=for-the-badge" alt="Armghan Ahmad Kamboh" /></a><p align="center"></p>
+  <p align="center"> <a href="https://twitter.com/ArmghanKamboh" target="blank"><img src="https://img.shields.io/twitter/follow/ArmghanKamboh? logo=twitter&style=for-the-badge" alt="ArmghanKamboh" /></a><p align="center"></p>
 </p>
